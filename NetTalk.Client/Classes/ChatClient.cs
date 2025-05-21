@@ -15,7 +15,7 @@ namespace NetTalk.Client
     {
         static string ReadLineBuffer = "";
         static volatile bool isRunning = true;
-        static string ServerAddress = "172.16.2.206";
+        static string ServerAddress = "YOUR LOCAL IP ADDRESS FROM SERVER";
 
 
         static void Main()
