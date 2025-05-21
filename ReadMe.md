@@ -1,3 +1,5 @@
+#This is an ongoing side project, so improvements to code structure, security, and refactoring will be coming soon.
+
 # NetTalk
 
 NetTalk is a console-based network chat application written in **C#**, allowing multiple users to communicate in various chat rooms backed by a MySQL database (using XAMPP).
