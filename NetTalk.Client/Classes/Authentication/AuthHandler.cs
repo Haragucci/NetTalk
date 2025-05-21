@@ -9,7 +9,7 @@ namespace NetTalk.Client
 {
     public class AuthHandler
     {
-        static string ServerAddress = "172.16.2.206"; //Schule:172.16.2.206   Zuhause:192.168.2.39
+        static string ServerAddress = "YOUR LOCAL IP ADDRESS FROM SERVER";
         public static bool LoginTest(string name, string password)
         {
             try
